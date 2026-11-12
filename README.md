@@ -5,3 +5,5 @@ Made for the HKRSC Tun Ma route, compatible with the original SP1900 train model
 ## HKRSC 屯馬線列車改進模組包（OpenBVE)
 本模組為 OpenBVE 平台的屯馬線列車增強修復包，主要修復駕駛室視角相關錯誤，修正原有視角偏移、顯示異常等問題，還原更貼近真實的駕駛視野，提升駕駛沉浸感。
 適配 HKRSC 屯馬線路線，相容對應 SP1900 列車車體，不改动原有 ATP、訊號系統邏輯，保留原版港鐵保安裝置的仿真設定。
+
+## Downloads: https://github.com/PEKSY-323H/HKRSC-TunMaLine-Train-improvements/releases/tag/v1.0.0
